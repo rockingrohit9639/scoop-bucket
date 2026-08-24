@@ -1,19 +1,19 @@
 {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rockingrohit9639/cz/releases/download/v2.1.0/cz_2.1.0_windows_amd64.zip",
+            "url": "https://github.com/rockingrohit9639/cz/releases/download/v2.2.0/cz_2.2.0_windows_amd64.zip",
             "bin": [
                 "cz.exe"
             ],
-            "hash": "2939c8c6bbe87d686ae0e504f87088d5c5bbc6bddbba0e55253348d4f2a24056"
+            "hash": "8c013090cc64cbd5336120bbf0b1f9e37849e76725b4ebcc09405505304a46ad"
         },
         "arm64": {
-            "url": "https://github.com/rockingrohit9639/cz/releases/download/v2.1.0/cz_2.1.0_windows_arm64.zip",
+            "url": "https://github.com/rockingrohit9639/cz/releases/download/v2.2.0/cz_2.2.0_windows_arm64.zip",
             "bin": [
                 "cz.exe"
             ],
-            "hash": "3cae94fa6adf6034a2f515a1fb38bda303e2840107928a6dd2cba2fd9fa9cbcc"
+            "hash": "481cbecb361b524acc3decde14208685ead189d7b98bb585804238b9efc441cb"
         }
     },
     "homepage": "https://github.com/rockingrohit9639/cz",
